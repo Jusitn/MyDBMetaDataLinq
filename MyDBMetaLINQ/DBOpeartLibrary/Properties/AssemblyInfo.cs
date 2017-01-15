@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("BaseMetadataLibrary")]
+[assembly: AssemblyTitle("DBOpeartLibrary")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("BaseMetadataLibrary")]
+[assembly: AssemblyProduct("DBOpeartLibrary")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // 如果此项目向 COM 公开，则下列 GUID 用于类型库的 ID
-[assembly: Guid("59cdf029-60f5-4171-bdb8-5aabf8ad53f9")]
+[assembly: Guid("c5c34d66-8b04-4127-b85d-5976f0f9eff4")]
 
 // 程序集的版本信息由下列四个值组成: 
 //

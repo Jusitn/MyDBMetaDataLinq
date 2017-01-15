@@ -7,8 +7,8 @@
     <ProjectGuid>{67B34873-6103-4433-A34C-08D012065D9E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BaseLinqSearchLibrary</RootNamespace>
-    <AssemblyName>BaseLinqSearchLibrary</AssemblyName>
+    <RootNamespace>HF.Linq.BaseLinqSearchLibrary</RootNamespace>
+    <AssemblyName>HF.Linq.BaseLinqSearchLibrary</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
